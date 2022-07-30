@@ -1,2 +1,2 @@
 # Travel Goals Website
-Practice HTML & CSS
+Practice HTML & CSS Flexbox, Grid
